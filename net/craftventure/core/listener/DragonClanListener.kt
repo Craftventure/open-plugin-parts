@@ -803,8 +803,8 @@ class DragonClanListener : Listener {
 
     companion object {
         val rewardUrl =
-            "https://discord.com/api/webhooks/1190202365257719898/XJZEfSMvm3kJ8eXhcP0QmKtIlrppxgzram8lelTt7V6_LHaR1CQl6oFxhLIQWa-2pTlG"
+            "https://discord.com/api/webhooks/"
         val dragonClanChannelHook =
-            "https://discord.com/api/webhooks/1190584438795542558/XtbqnMvG3EFvHvAQMpG2j3x-poOAXQMFtjgwbnnrd3veAwJ553eBmb-f6joQJsr6CyTq"
+            "https://discord.com/api/webhooks/"
     }
 }

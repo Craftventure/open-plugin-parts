@@ -20,7 +20,6 @@ import net.craftventure.core.feature.balloon.holders.StaticLocationHolder
 import net.craftventure.core.feature.shop.dto.ShopPresenterDto
 import net.craftventure.core.inventory.impl.BuyItemMenu
 import net.craftventure.core.inventory.impl.ShopOfferMenu
-import net.craftventure.core.ktx.logging.LogPriority
 import net.craftventure.core.ktx.logging.logcat
 import net.craftventure.core.ktx.util.Logger
 import net.craftventure.core.npc.NpcEntity

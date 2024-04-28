@@ -12,11 +12,9 @@ import net.craftventure.core.animation.armature.Armature
 import net.craftventure.core.animation.armature.ArmatureAnimator
 import net.craftventure.core.animation.armature.WrappedJoint
 import net.craftventure.core.animation.dae.DaeLoader
-import net.craftventure.core.animation.model.Matrix4x4
 import net.craftventure.core.async.executeMain
 import net.craftventure.core.extension.hasPassengers
 import net.craftventure.core.extension.spawn
-import net.craftventure.core.ktx.logging.LogPriority
 import net.craftventure.core.ktx.logging.logcat
 import net.craftventure.core.ktx.util.Logger
 import net.craftventure.core.metadata.TypedInstanceOwnerMetadata.Companion.setOwner

@@ -9,7 +9,6 @@ import net.craftventure.chat.bungee.util.CVChatColor.serverError
 import net.craftventure.chat.bungee.util.CVTextColor
 import net.craftventure.core.CraftventureCore
 import net.craftventure.core.async.executeAsync
-import net.craftventure.core.ktx.logging.LogPriority
 import net.craftventure.core.ktx.logging.logcat
 import net.craftventure.core.ktx.util.Logger
 import net.craftventure.core.ktx.util.Logger.severe
